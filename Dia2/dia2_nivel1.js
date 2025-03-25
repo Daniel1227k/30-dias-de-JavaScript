@@ -3,3 +3,5 @@ let desafio = "30 dias de JavaScript";
 
 //2. Imprima la cadena en la consola del navegador usando console.log()
 console.log(desafio);
+
+console.log("Esto desde linux");
